@@ -80,7 +80,7 @@ export default function App() {
                     <span className='text-md'>Source code</span>
                     <button
                         className='px-6 rounded-2xl bg-blue-600'
-                        onClick={() => window.location.replace('https://codefrontend.com')}>GET</button>
+                        onClick={() => window.location.replace('https://github.com/joaotadiello/bpm-wiserespurces.store')}>GET</button>
                 </div>
             </Content>
         </AppView>
